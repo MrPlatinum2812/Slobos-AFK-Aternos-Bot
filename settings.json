@@ -9,7 +9,7 @@
     "ip": "apoclypse-MxSO.aternos.me",
     "port": 32363,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
