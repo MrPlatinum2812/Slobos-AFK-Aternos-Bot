@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hawkfish.aternos.host:32363",
+    "ip": "barramundi.aternos.host:32363",
     "port": 32363,
     "version": "",
     "try-creative": false
