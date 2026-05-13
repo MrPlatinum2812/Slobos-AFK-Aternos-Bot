@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "apoclypse-MxSO.aternos.me:32363",
+    "ip": "apoclypse-MxSO.aternos.me",
     "port": 32363,
     "version": "",
     "try-creative": false
@@ -45,8 +45,8 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 2,
+      "speed": 5000
     },
     "look-around": {
       "enabled": true,
